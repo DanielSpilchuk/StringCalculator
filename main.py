@@ -33,9 +33,9 @@ def old_add(numbers):
 
 def new_add(numbers):
     """
-
-    :param numbers:
-    :return:
+    This function adds 1-3 digit numbers.
+    :param numbers: string of numbers to add
+    :return: Resulting addition.
     """
     result = 0
 
